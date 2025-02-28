@@ -13,6 +13,7 @@ function Skills() {
         <Skill title="JavaScript" rating="4" />
         <Skill title="TypeScript" rating="4" />
         <Skill title="Node JS" rating="4" />
+        <Skill title="Next JS" rating="3" />
         <Skill title="React JS" rating="4" />
         <Skill title="React Native" rating="4" />
         <Skill title="Electron JS" rating="3" />
